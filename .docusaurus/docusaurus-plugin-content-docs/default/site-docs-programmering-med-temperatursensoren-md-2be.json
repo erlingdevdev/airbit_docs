@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Programmering-med-Temperatursensoren",
+  "id": "Programmering-med-Temperatursensoren",
+  "isDocsHomePage": false,
+  "title": "Programmering-med-Temperatursensoren",
+  "description": "Av alle sensorene til airbit, DHT, er en veldig vanlig type sensor. Heldigvis betyr dette for oss at noen andre allerede har gjort jobben med å finne ut hvordan man leser av data fra sensoren. Dette gjør det veldig mye enklere å lese av temperaturdata.",
+  "source": "@site/docs/Programmering-med-Temperatursensoren.md",
+  "sourceDirName": ".",
+  "slug": "/Programmering-med-Temperatursensoren",
+  "permalink": "/docs/Programmering-med-Temperatursensoren",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Programmering-med-Temperatursensoren.md",
+  "version": "current",
+  "frontMatter": {}
+}

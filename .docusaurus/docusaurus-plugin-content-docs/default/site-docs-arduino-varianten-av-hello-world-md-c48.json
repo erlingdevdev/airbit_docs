@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Arduino-varianten-av-Hello-World",
+  "id": "Arduino-varianten-av-Hello-World",
+  "isDocsHomePage": false,
+  "title": "Arduino-varianten-av-Hello-World",
+  "description": "Når man lærer et nytt programmeringsspråk er det vanlig å lage et program som ofte kalles Hello World. Det handler om å få datamaskinen, eller i dette tilfellet Arduinoen, til å skrive ut teksten Hello World.",
+  "source": "@site/docs/Arduino-varianten-av-Hello-World.md",
+  "sourceDirName": ".",
+  "slug": "/Arduino-varianten-av-Hello-World",
+  "permalink": "/docs/Arduino-varianten-av-Hello-World",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Arduino-varianten-av-Hello-World.md",
+  "version": "current",
+  "frontMatter": {}
+}

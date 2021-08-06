@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Komponenter",
+  "id": "Komponenter",
+  "isDocsHomePage": false,
+  "title": "Komponenter",
+  "description": "Her kommer en oversikt over alle komponentene.",
+  "source": "@site/docs/Komponenter.md",
+  "sourceDirName": ".",
+  "slug": "/Komponenter",
+  "permalink": "/docs/Komponenter",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Komponenter.md",
+  "version": "current",
+  "frontMatter": {}
+}

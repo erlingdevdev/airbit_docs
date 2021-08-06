@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Sette-på-lokket",
+  "id": "Sette-på-lokket",
+  "isDocsHomePage": false,
+  "title": "Sette-på-lokket",
+  "description": "Nesten ferdig!",
+  "source": "@site/docs/Sette-på-lokket.md",
+  "sourceDirName": ".",
+  "slug": "/Sette-på-lokket",
+  "permalink": "/docs/Sette-på-lokket",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Sette-på-lokket.md",
+  "version": "current",
+  "frontMatter": {}
+}

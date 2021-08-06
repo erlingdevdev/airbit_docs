@@ -1,0 +1,23 @@
+{
+  "unversionedId": "airbit-Programmering",
+  "id": "airbit-Programmering",
+  "isDocsHomePage": false,
+  "title": "airbit-Programmering",
+  "description": "air:bit Programmeringsguiden består av flere småguider, én for hver sensor. Guidene for hver sensor vil gi deg forklaringer og tips for hvordan du skal programmere Arduinoen til å bruke de ulike sensorene.",
+  "source": "@site/docs/airbit-Programmering.md",
+  "sourceDirName": ".",
+  "slug": "/airbit-Programmering",
+  "permalink": "/docs/airbit-Programmering",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/airbit-Programmering.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Introduksjon-til-Arduino-programmering",
+    "permalink": "/docs/Introduksjon-til-Arduino-programmering"
+  },
+  "next": {
+    "title": "Dataformat",
+    "permalink": "/docs/Dataformat"
+  }
+}

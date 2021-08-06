@@ -1,0 +1,30 @@
+{
+  "/airbit_docs/-5e5": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/airbit_docs/landing-899": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---landingde-1-1b5"
+  },
+  "/airbit_docs/landing_en-6e2": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---landing-en-545-be1"
+  },
+  "/airbit_docs/markdown-page-4b7": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/airbit_docs/docs-079": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/airbit_docs/docs/Home-755": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-home-187-24a"
+  },
+  "/airbit_docs/docs/mdx-e1c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdxa-6-f-928"
+  }
+}

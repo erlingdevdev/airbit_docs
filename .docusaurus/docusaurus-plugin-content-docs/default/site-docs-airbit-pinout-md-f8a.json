@@ -1,0 +1,14 @@
+{
+  "unversionedId": "airbit-Pinout",
+  "id": "airbit-Pinout",
+  "isDocsHomePage": false,
+  "title": "airbit-Pinout",
+  "description": "For å vite hvilke sensorer er koblet til hvilke pinner som du må bruke i programmet ditt brukes i vanlig elektronikk et koblingsskjema, eller det vi kaller en pinout.",
+  "source": "@site/docs/airbit-Pinout.md",
+  "sourceDirName": ".",
+  "slug": "/airbit-Pinout",
+  "permalink": "/docs/airbit-Pinout",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/airbit-Pinout.md",
+  "version": "current",
+  "frontMatter": {}
+}

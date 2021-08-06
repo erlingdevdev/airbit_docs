@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Home",
+  "id": "Home",
+  "isDocsHomePage": false,
+  "title": "Guider",
+  "description": "Dokumentasjonsportal for air:bit",
+  "source": "@site/docs/Home.md",
+  "sourceDirName": ".",
+  "slug": "/Home",
+  "permalink": "/airbit_docs/docs/Home",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Home.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "Home",
+    "title": "Guider"
+  },
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/airbit_docs/docs/mdx"
+  }
+}

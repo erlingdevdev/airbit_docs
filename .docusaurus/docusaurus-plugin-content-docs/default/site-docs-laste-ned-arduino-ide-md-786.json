@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Laste-ned-Arduino-IDE",
+  "id": "Laste-ned-Arduino-IDE",
+  "isDocsHomePage": false,
+  "title": "Laste-ned-Arduino-IDE",
+  "description": "For å starte å programmere med Arduino, må man innstallere Arduino IDE (Integrated Development Environment). Det er også mulig å registrere seg med en bruker og få tilgang til en editor i nettleseren.",
+  "source": "@site/docs/Laste-ned-Arduino-IDE.md",
+  "sourceDirName": ".",
+  "slug": "/Laste-ned-Arduino-IDE",
+  "permalink": "/docs/Laste-ned-Arduino-IDE",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Laste-ned-Arduino-IDE.md",
+  "version": "current",
+  "frontMatter": {}
+}

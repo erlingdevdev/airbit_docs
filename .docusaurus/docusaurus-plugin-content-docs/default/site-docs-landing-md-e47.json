@@ -1,0 +1,14 @@
+{
+  "unversionedId": "landing",
+  "id": "landing",
+  "isDocsHomePage": false,
+  "title": "Hei!",
+  "description": "Velkommen til air:bit &ndash; Et forskningsprosjekt om luftforurensning  av Skolelaboratoriet i realfag og teknologi ved UiT Norges arktiske universitet.",
+  "source": "@site/docs/landing.md",
+  "sourceDirName": ".",
+  "slug": "/landing",
+  "permalink": "/docs/landing",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/landing.md",
+  "version": "current",
+  "frontMatter": {}
+}

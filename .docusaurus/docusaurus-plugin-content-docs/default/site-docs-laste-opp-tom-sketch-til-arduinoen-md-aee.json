@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Laste-opp-tom-sketch-til-Arduinoen",
+  "id": "Laste-opp-tom-sketch-til-Arduinoen",
+  "isDocsHomePage": false,
+  "title": "Laste-opp-tom-sketch-til-Arduinoen",
+  "description": "For å teste at datamaskinen din kan kommunisere med Arduinoen, og at vi faktisk kan sende opp kode til den, skal vi nå prøve å laste opp et \"tomt\" program til Arduinoen din.",
+  "source": "@site/docs/Laste-opp-tom-sketch-til-Arduinoen.md",
+  "sourceDirName": ".",
+  "slug": "/Laste-opp-tom-sketch-til-Arduinoen",
+  "permalink": "/docs/Laste-opp-tom-sketch-til-Arduinoen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Laste-opp-tom-sketch-til-Arduinoen.md",
+  "version": "current",
+  "frontMatter": {}
+}

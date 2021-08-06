@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Minnekort",
+  "id": "Minnekort",
+  "isDocsHomePage": false,
+  "title": "Minnekort",
+  "description": "TODO",
+  "source": "@site/docs/Minnekort.md",
+  "sourceDirName": ".",
+  "slug": "/Minnekort",
+  "permalink": "/docs/Minnekort",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Minnekort.md",
+  "version": "current",
+  "frontMatter": {}
+}

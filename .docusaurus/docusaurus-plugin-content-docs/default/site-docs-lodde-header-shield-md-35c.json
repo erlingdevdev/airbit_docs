@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Lodde-header-shield",
+  "id": "Lodde-header-shield",
+  "isDocsHomePage": false,
+  "title": "Lodde-header-shield",
+  "description": "I stedet for å få ett virvarr av ledninger, vil vi gjøre livet enklere ved å bruke et header shield mellom Arduino'en og de forskjellige komponentene.",
+  "source": "@site/docs/Lodde-header-shield.md",
+  "sourceDirName": ".",
+  "slug": "/Lodde-header-shield",
+  "permalink": "/docs/Lodde-header-shield",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Lodde-header-shield.md",
+  "version": "current",
+  "frontMatter": {}
+}

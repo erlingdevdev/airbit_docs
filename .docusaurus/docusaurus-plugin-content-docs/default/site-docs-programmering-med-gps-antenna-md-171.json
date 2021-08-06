@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Programmering-med-GPS-antenna",
+  "id": "Programmering-med-GPS-antenna",
+  "isDocsHomePage": false,
+  "title": "Programmering-med-GPS-antenna",
+  "description": "Neste komponent vi kan se nærmere på er GPS-antennen til air:bit. Igjen kommer vi til å skjekke for GPS posisjonen og skrive ut dataen fra GPS'en til seriell kommunikasjon. Men for å gjøre ting litt mere interessant kommer vi også til å lyse opp LED-lysene for å vise at du har kontakt med nok GPS-satellitter for å bestemme posisjon.",
+  "source": "@site/docs/Programmering-med-GPS-antenna.md",
+  "sourceDirName": ".",
+  "slug": "/Programmering-med-GPS-antenna",
+  "permalink": "/docs/Programmering-med-GPS-antenna",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Programmering-med-GPS-antenna.md",
+  "version": "current",
+  "frontMatter": {}
+}

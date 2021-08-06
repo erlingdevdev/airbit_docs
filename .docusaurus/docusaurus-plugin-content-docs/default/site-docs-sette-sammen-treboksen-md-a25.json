@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Sette-sammen-treboksen",
+  "id": "Sette-sammen-treboksen",
+  "isDocsHomePage": false,
+  "title": "Sette-sammen-treboksen",
+  "description": "Nå skal vi bygge sammen treplatene til boksen der alle sensorene og Arduinoen skal plasseres i.",
+  "source": "@site/docs/Sette-sammen-treboksen.md",
+  "sourceDirName": ".",
+  "slug": "/Sette-sammen-treboksen",
+  "permalink": "/docs/Sette-sammen-treboksen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Sette-sammen-treboksen.md",
+  "version": "current",
+  "frontMatter": {}
+}

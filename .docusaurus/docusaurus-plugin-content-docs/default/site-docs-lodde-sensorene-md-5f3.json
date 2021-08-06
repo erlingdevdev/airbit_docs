@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Lodde-sensorene",
+  "id": "Lodde-sensorene",
+  "isDocsHomePage": false,
+  "title": "Lodde-sensorene",
+  "description": "På selve header shieldet finner vi bare LED lysene og motstanderene de trenger for å ikke brenne opp. Desverre er veldig lite spennende vi kan gjøre med Arduino'en uten sensorer. Så nå må vi lodde fast pinner i de tilsvarende hullene på shieldet.",
+  "source": "@site/docs/Lodde-sensorene.md",
+  "sourceDirName": ".",
+  "slug": "/Lodde-sensorene",
+  "permalink": "/docs/Lodde-sensorene",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Lodde-sensorene.md",
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Arduino-Uno",
+  "id": "Arduino-Uno",
+  "isDocsHomePage": false,
+  "title": "Arduino-Uno",
+  "description": "Her kommer informasjon om Arduino Uno.",
+  "source": "@site/docs/Arduino-Uno.md",
+  "sourceDirName": ".",
+  "slug": "/Arduino-Uno",
+  "permalink": "/docs/Arduino-Uno",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Arduino-Uno.md",
+  "version": "current",
+  "frontMatter": {}
+}

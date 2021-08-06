@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Introduksjon-til-Arduino-programmering",
+  "id": "Introduksjon-til-Arduino-programmering",
+  "isDocsHomePage": false,
+  "title": "Introduksjon-til-Arduino-programmering",
+  "description": "Denne guiden vil gi deg en introduksjon til programmering av Arduinoen til air:bit. Denne guiden er rettet mot nybegynnere i programmering og antar at du ikke har programmert noe tidligere. Arduino programmeres i en forenklet variant av et programmeringsspråk som kalles C++. Denne guiden kan også være nyttig om du har programmert før, men ikke i språk som likner på C++ eller C.",
+  "source": "@site/docs/Introduksjon-til-Arduino-programmering.md",
+  "sourceDirName": ".",
+  "slug": "/Introduksjon-til-Arduino-programmering",
+  "permalink": "/docs/Introduksjon-til-Arduino-programmering",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Introduksjon-til-Arduino-programmering.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Guide-Oppsett-for-programmering",
+    "permalink": "/docs/Guide-Oppsett-for-programmering"
+  },
+  "next": {
+    "title": "airbit-Programmering",
+    "permalink": "/docs/airbit-Programmering"
+  }
+}

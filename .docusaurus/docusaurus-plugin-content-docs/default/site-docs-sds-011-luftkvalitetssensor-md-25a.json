@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDS011-Luftkvalitetssensor",
+  "id": "SDS011-Luftkvalitetssensor",
+  "isDocsHomePage": false,
+  "title": "SDS011 nova PM sensor",
+  "description": "Støvsensoren",
+  "source": "@site/docs/SDS011-Luftkvalitetssensor.md",
+  "sourceDirName": ".",
+  "slug": "/SDS011-Luftkvalitetssensor",
+  "permalink": "/docs/SDS011-Luftkvalitetssensor",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SDS011-Luftkvalitetssensor.md",
+  "version": "current",
+  "frontMatter": {}
+}

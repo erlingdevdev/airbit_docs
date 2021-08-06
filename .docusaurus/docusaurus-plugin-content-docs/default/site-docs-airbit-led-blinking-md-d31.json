@@ -1,0 +1,14 @@
+{
+  "unversionedId": "airbit-LED-Blinking",
+  "id": "airbit-LED-Blinking",
+  "isDocsHomePage": false,
+  "title": "airbit-LED-Blinking",
+  "description": "De enkleste komponentene på airbit ikke har noen skjerm, og du vil neppe alltids ha med datamaskinen din for å kunne snakke direkte med Arduinoen.",
+  "source": "@site/docs/airbit-LED-Blinking.md",
+  "sourceDirName": ".",
+  "slug": "/airbit-LED-Blinking",
+  "permalink": "/docs/airbit-LED-Blinking",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/airbit-LED-Blinking.md",
+  "version": "current",
+  "frontMatter": {}
+}

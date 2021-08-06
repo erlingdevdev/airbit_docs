@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Programmering-med-Støvsensoren",
+  "id": "Programmering-med-Støvsensoren",
+  "isDocsHomePage": false,
+  "title": "Programmering-med-Støvsensoren",
+  "description": "Støvsensoren til air:bit er litt mere komplisert enn temperatursensoren, men igjen finnes det et Arduino bibliotekt for å lese av målinger fra sensoren.",
+  "source": "@site/docs/Programmering-med-Støvsensoren.md",
+  "sourceDirName": ".",
+  "slug": "/Programmering-med-Støvsensoren",
+  "permalink": "/docs/Programmering-med-Støvsensoren",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Programmering-med-Støvsensoren.md",
+  "version": "current",
+  "frontMatter": {}
+}

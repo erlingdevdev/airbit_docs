@@ -1,0 +1,37 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "collapsed": true,
+        "collapsible": true,
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Guider",
+            "href": "/airbit_docs/docs/Home"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "collapsed": true,
+        "collapsible": true,
+        "label": "Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "Powered by MDX",
+            "href": "/airbit_docs/docs/mdx"
+          }
+        ]
+      }
+    ]
+  }
+}

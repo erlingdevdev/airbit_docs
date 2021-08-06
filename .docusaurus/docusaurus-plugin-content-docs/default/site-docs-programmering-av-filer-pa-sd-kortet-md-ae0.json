@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Programmering-av-filer-på-SD-kortet",
+  "id": "Programmering-av-filer-på-SD-kortet",
+  "isDocsHomePage": false,
+  "title": "Programmering-av-filer-på-SD-kortet",
+  "description": "Når du er ute og tar målinger med airbit har ikke noe som forbinder seg med internettet, så du vil trenge en måte å lagre måledata på. air:bit har en kortleser for microSD-kort. Et microSD-kort er i prinsippet bare en minnebrikke, veldig lik en vanlig USB-minnepen og faktisk nøyaktig lik minnekortet som finnes for å lagre data på nyere mobiltelefoner, digitalkamera, osv.",
+  "source": "@site/docs/Programmering-av-filer-på-SD-kortet.md",
+  "sourceDirName": ".",
+  "slug": "/Programmering-av-filer-på-SD-kortet",
+  "permalink": "/docs/Programmering-av-filer-på-SD-kortet",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Programmering-av-filer-på-SD-kortet.md",
+  "version": "current",
+  "frontMatter": {}
+}

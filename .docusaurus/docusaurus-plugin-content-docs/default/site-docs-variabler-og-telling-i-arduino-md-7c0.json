@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Variabler-og-telling-i-Arduino",
+  "id": "Variabler-og-telling-i-Arduino",
+  "isDocsHomePage": false,
+  "title": "Variabler-og-telling-i-Arduino",
+  "description": "I forrige steg skrev vi ut teksten Hello World!. Vi så at Arduinoen kjørte gjennom instruksjonene i loop funksjonen om og om igjen. La oss nå endre Hello-World-programmet til å også skrive ut en teller verdi, som vi øker for hver linje.",
+  "source": "@site/docs/Variabler-og-telling-i-Arduino.md",
+  "sourceDirName": ".",
+  "slug": "/Variabler-og-telling-i-Arduino",
+  "permalink": "/docs/Variabler-og-telling-i-Arduino",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Variabler-og-telling-i-Arduino.md",
+  "version": "current",
+  "frontMatter": {}
+}

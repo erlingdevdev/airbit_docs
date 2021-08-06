@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Skru-fast-komponenter",
+  "id": "Skru-fast-komponenter",
+  "isDocsHomePage": false,
+  "title": "Skru-fast-komponenter",
+  "description": "Nå når alle delene har fått loddet på seg header pinner og plugger kan vi skru fast delene i treboksen.",
+  "source": "@site/docs/Skru-fast-komponenter.md",
+  "sourceDirName": ".",
+  "slug": "/Skru-fast-komponenter",
+  "permalink": "/docs/Skru-fast-komponenter",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Skru-fast-komponenter.md",
+  "version": "current",
+  "frontMatter": {}
+}

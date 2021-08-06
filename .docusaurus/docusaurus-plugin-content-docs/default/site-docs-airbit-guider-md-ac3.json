@@ -1,0 +1,23 @@
+{
+  "unversionedId": "airbit-Guider",
+  "id": "airbit-Guider",
+  "isDocsHomePage": false,
+  "title": "airbit-Guider",
+  "description": "Her er alle guidene på hvordan sette sammen, lodde og programmere air:bit måleren.",
+  "source": "@site/docs/airbit-Guider.md",
+  "sourceDirName": ".",
+  "slug": "/airbit-Guider",
+  "permalink": "/docs/airbit-Guider",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/airbit-Guider.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/Home"
+  },
+  "next": {
+    "title": "Guide-Bygging-og-Lodding",
+    "permalink": "/docs/Guide-Bygging-og-Lodding"
+  }
+}

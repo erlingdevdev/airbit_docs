@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Generell-informasjon-om-programmering",
+  "id": "Generell-informasjon-om-programmering",
+  "isDocsHomePage": false,
+  "title": "Generell-informasjon-om-programmering",
+  "description": "Programmering er å skrive oppskrifter med stegvise instruksjoner til en datamaskin for å få den til å utføre spesifikke oppgaver. Alle datamaskiner bruker slike oppskrifter, vi som brukere av datamaskiner kjenner til en type oppskrift som kalles Applikasjoner eller Apper. Apper er gjerne fullverdige programmer som utfører oppgaver som vi brukere kan dra nytte av. Noen eksempler på programmer som kan kalles Apper er: Nettlesere, Spill, Mediaprogrammer, Tekstbehandling osv. Disse programmene er veldig synlige for brukere fordi det er gjerne disse vi interagerer med når vi bruker en datamaskin.",
+  "source": "@site/docs/Generell-informasjon-om-programmering.md",
+  "sourceDirName": ".",
+  "slug": "/Generell-informasjon-om-programmering",
+  "permalink": "/docs/Generell-informasjon-om-programmering",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Generell-informasjon-om-programmering.md",
+  "version": "current",
+  "frontMatter": {}
+}

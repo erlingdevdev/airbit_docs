@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Guide-Bygging-og-Lodding",
+  "id": "Guide-Bygging-og-Lodding",
+  "isDocsHomePage": false,
+  "title": "Guide-Bygging-og-Lodding",
+  "description": "1. Unboxing / Identifisere delene",
+  "source": "@site/docs/Guide-Bygging-og-Lodding.md",
+  "sourceDirName": ".",
+  "slug": "/Guide-Bygging-og-Lodding",
+  "permalink": "/docs/Guide-Bygging-og-Lodding",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Guide-Bygging-og-Lodding.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "airbit-Guider",
+    "permalink": "/docs/airbit-Guider"
+  },
+  "next": {
+    "title": "Guide-Oppsett-for-programmering",
+    "permalink": "/docs/Guide-Oppsett-for-programmering"
+  }
+}

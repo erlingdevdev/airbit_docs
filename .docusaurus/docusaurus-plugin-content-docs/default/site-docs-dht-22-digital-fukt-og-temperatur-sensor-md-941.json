@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DHT22-Digital-Fukt-og-Temperatur-Sensor",
+  "id": "DHT22-Digital-Fukt-og-Temperatur-Sensor",
+  "isDocsHomePage": false,
+  "title": "DHT22-Digital-Fukt-og-Temperatur-Sensor",
+  "description": "Hovedbilde",
+  "source": "@site/docs/DHT22-Digital-Fukt-og-Temperatur-Sensor.md",
+  "sourceDirName": ".",
+  "slug": "/DHT22-Digital-Fukt-og-Temperatur-Sensor",
+  "permalink": "/docs/DHT22-Digital-Fukt-og-Temperatur-Sensor",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/DHT22-Digital-Fukt-og-Temperatur-Sensor.md",
+  "version": "current",
+  "frontMatter": {}
+}

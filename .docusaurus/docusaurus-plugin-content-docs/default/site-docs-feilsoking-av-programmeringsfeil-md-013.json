@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Feilsøking-av-programmeringsfeil",
+  "id": "Feilsøking-av-programmeringsfeil",
+  "isDocsHomePage": false,
+  "title": "Feilsøking-av-programmeringsfeil",
+  "description": "Den mest vanlige opplevelsen mens man skriver kode er desverre at ting ikke funker fordi man har gjort en feil ett eller annet sted. Dette er omtrent som å skrive en stil i norsk, du kommer alltids til å ha en eller annen skrivefeil her eller der. Akkurat som i norsk, er det viktig å huske på en ting: dette er helt vanlig! Selv om du har norsk som morsmål så vil du fortsatt av og til stave noe feil. Selv om du har programmert i flere tiår, vi du forsatt gjøre små feil. Slik er det bare.",
+  "source": "@site/docs/Feilsøking-av-programmeringsfeil.md",
+  "sourceDirName": ".",
+  "slug": "/Feilsøking-av-programmeringsfeil",
+  "permalink": "/docs/Feilsøking-av-programmeringsfeil",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Feilsøking-av-programmeringsfeil.md",
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Start-Arduino-IDE",
+  "id": "Start-Arduino-IDE",
+  "isDocsHomePage": false,
+  "title": "Start-Arduino-IDE",
+  "description": "Etter installasjonen vil du kunne finne Arduino eller Arduino IDE (navnet kan variere) i start-menyen og også på Skrivebordet. Klikk på denne for å starte opp Arduino IDE programmet for første gang.",
+  "source": "@site/docs/Start-Arduino-IDE.md",
+  "sourceDirName": ".",
+  "slug": "/Start-Arduino-IDE",
+  "permalink": "/docs/Start-Arduino-IDE",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Start-Arduino-IDE.md",
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "landing_en",
+  "id": "landing_en",
+  "isDocsHomePage": false,
+  "title": "Hi!",
+  "description": "Welcome to air:bit &ndash; A science project on air pollution  School Laboratory in science and technology at UiT The Arctic University of Norway.",
+  "source": "@site/docs/landing_en.md",
+  "sourceDirName": ".",
+  "slug": "/landing_en",
+  "permalink": "/docs/landing_en",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/landing_en.md",
+  "version": "current",
+  "frontMatter": {}
+}

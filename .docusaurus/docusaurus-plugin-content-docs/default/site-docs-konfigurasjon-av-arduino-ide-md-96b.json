@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Konfigurasjon-av-Arduino-IDE",
+  "id": "Konfigurasjon-av-Arduino-IDE",
+  "isDocsHomePage": false,
+  "title": "Konfigurasjon-av-Arduino-IDE",
+  "description": "Nå må vi sette opp Arduino IDE til å snakke med mikrokontrolleren vår. Vi vil også sette noen innstillinger som vil gjøre det enkere å programmere og finne mulige feil i koden senere.",
+  "source": "@site/docs/Konfigurasjon-av-Arduino-IDE.md",
+  "sourceDirName": ".",
+  "slug": "/Konfigurasjon-av-Arduino-IDE",
+  "permalink": "/docs/Konfigurasjon-av-Arduino-IDE",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Konfigurasjon-av-Arduino-IDE.md",
+  "version": "current",
+  "frontMatter": {}
+}

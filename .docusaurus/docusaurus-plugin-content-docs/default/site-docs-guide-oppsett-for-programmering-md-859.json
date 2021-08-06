@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Guide-Oppsett-for-programmering",
+  "id": "Guide-Oppsett-for-programmering",
+  "isDocsHomePage": false,
+  "title": "Guide-Oppsett-for-programmering",
+  "description": "Innhold",
+  "source": "@site/docs/Guide-Oppsett-for-programmering.md",
+  "sourceDirName": ".",
+  "slug": "/Guide-Oppsett-for-programmering",
+  "permalink": "/docs/Guide-Oppsett-for-programmering",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Guide-Oppsett-for-programmering.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Guide-Bygging-og-Lodding",
+    "permalink": "/docs/Guide-Bygging-og-Lodding"
+  },
+  "next": {
+    "title": "Introduksjon-til-Arduino-programmering",
+    "permalink": "/docs/Introduksjon-til-Arduino-programmering"
+  }
+}

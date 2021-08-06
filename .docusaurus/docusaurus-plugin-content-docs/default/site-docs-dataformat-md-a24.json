@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Dataformat",
+  "id": "Dataformat",
+  "isDocsHomePage": false,
+  "title": "Dataformat",
+  "description": "Husk at det er viktig at fila dere skriver er en komma-separert fil. Dette betyr",
+  "source": "@site/docs/Dataformat.md",
+  "sourceDirName": ".",
+  "slug": "/Dataformat",
+  "permalink": "/docs/Dataformat",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Dataformat.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "airbit-Programmering",
+    "permalink": "/docs/airbit-Programmering"
+  },
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}
